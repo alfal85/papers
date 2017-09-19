@@ -19,5 +19,8 @@ This is the result of the experiment (Another modifications ot test Git)
 # Conclusion
 This is the conclusion which is diiferent than result
 
+# Figure 
+Additional Test
+
 
 
