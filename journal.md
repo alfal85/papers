@@ -13,3 +13,5 @@ This is to show the diff
 This is to test the branching of Git 
 #Instrumentation
 The file is modified to accomedate the instrumentation changes for further git explanation
+#Conclusion
+This is the conclusion which is diiferent than result
