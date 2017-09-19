@@ -1,7 +1,8 @@
 # Authors
 Ahmed Ibrahim
+John Smith
 # Title
-Git Management Course Test
+Git Management Course Test With Other
 #Introduction
 This is to indicate the first change on Git repository.
 #First Ref Save
